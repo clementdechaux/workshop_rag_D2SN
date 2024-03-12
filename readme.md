@@ -1,4 +1,4 @@
-# Workshop RAG sur le RAG
+# Workshop sur le RAG
 
 Les slides sont dipo ici
 
