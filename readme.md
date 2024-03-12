@@ -1,4 +1,4 @@
-# Workshop RAG sur l'union Européenne
+# Workshop RAG sur le RAG
 
 Les slides sont dipo ici
 
